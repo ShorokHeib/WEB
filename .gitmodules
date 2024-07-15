@@ -1,0 +1,12 @@
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/ShorokHeib/calculator.git
+[submodule "Ex8-ReactJS"]
+	path = Ex8-ReactJS
+	url = https://github.com/ShorokHeib/Ex8-ReactJS.git
+[submodule "EX7-AngularJS"]
+	path = EX7-AngularJS
+	url = https://github.com/ShorokHeib/EX7-AngularJS.git
+[submodule "Ex6"]
+	path = Ex6
+	url = https://github.com/ShorokHeib/Ex6.git
